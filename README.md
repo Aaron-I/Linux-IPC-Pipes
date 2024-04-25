@@ -113,6 +113,7 @@ exit(EXIT_SUCCESS);
 
 ## OUTPUT
 
+![Screenshot from 2024-04-25 16-17-15](https://github.com/Aaron-I/Linux-IPC-Pipes/assets/139863034/ca3dc4c5-984f-4af6-853e-79df6017384c)
 
 # RESULT:
 The program is executed successfully.
